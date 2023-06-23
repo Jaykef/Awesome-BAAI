@@ -15,12 +15,13 @@ All things awesome about Beijing Academy of Artificial Intelligence - a non-prof
   <li><a href="https://www.baai.ac.cn/portal/article/index/cid/49/id/518.html">WuDao - Large pre-trained language model</a></li>
   <li><a href="https://huggingface.co/spaces/BAAI/AltDiffusion">AltDiffusion - Multimodal art generative model (text-image, image-to-image)</a></li>
   <li><a href="https://huggingface.co/spaces/BAAI/SegGPT">SegGPT - performs arbitrary segmentation tasks in images or videos via in-context inference</a></li>
-  <li><a href="https://huggingface.co/spaces/BAAI/dreambooth-altdiffusion">DreamBooth - Image generation model</a></li>
 </ul>
 
 ### Huggingface Demos
 <ul>
-  <li><a href="https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltDiffusion">JiuDing - Multimodal art generative model (text-image, image-to-image)</a></li>
+  <li><a href="https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltDiffusion">AltDiffusion Huggingface demo</a></li>
+  <li><a href="https://huggingface.co/spaces/BAAI/SegGPT">SegGPT Huggingface demo</a></li>
+  <li><a href="https://huggingface.co/spaces/BAAI/dreambooth-altdiffusion">DreamBooth Huggingface demo</a></li>
 </ul>
 
 ### BAAI's Official Repos
