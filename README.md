@@ -13,7 +13,6 @@ All things awesome about Beijing Academy of Artificial Intelligence - a non-prof
 ### Models
 <ul>
   <li><a href="https://www.baai.ac.cn/portal/article/index/cid/49/id/518.html">WuDao - Large pre-trained language model</a></li>
-  https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltDiffusion
   <li><a href="https://huggingface.co/spaces/BAAI/AltDiffusion">AltDiffusion - Multimodal art generative model (text-image, image-to-image)</a></li>
   <li><a href="https://huggingface.co/spaces/BAAI/SegGPT">SegGPT - performs arbitrary segmentation tasks in images or videos via in-context inference</a></li>
   <li><a href="https://huggingface.co/spaces/BAAI/dreambooth-altdiffusion">Dream - performs arbitrary segmentation tasks in images or videos via in-context inference</a></li>
@@ -44,13 +43,11 @@ All things awesome about Beijing Academy of Artificial Intelligence - a non-prof
 
 <ul>
  <li><a href="https://github.com/humanloop/awesome-chatgpt"></a></li>
- 
- 
 </ul>
 
 ### Latest News
 <ul>
-  <li><a href="https://openai.com/product/gpt-4"></a></li>
+  <li><a href="https://www.baai.ac.cn/portal/list/channel/id/1.html">BAAI Official news blog</a></li>
 </ul>
 
 ### Apps Utilizing BAAI API with Frontend Frameworks/Libraries
