@@ -12,9 +12,11 @@ All things awesome about Beijing Academy of Artificial Intelligence - a non-prof
 
 ### Models
 <ul>
-  <li><a href="https://www.baai.ac.cn/portal/article/index/cid/49/id/518.html">WuDao - Large pre-trained language model</a></li>
-  <li><a href="https://huggingface.co/spaces/BAAI/AltDiffusion">AltDiffusion - Multimodal art generative model (text-image, image-to-image)</a></li>
+  <li><a href="https://www.baai.ac.cn/portal/article/index/cid/49/id/518.html">WuDao - large pre-trained language model</a></li>
+  <li><a href="https://huggingface.co/spaces/BAAI/AltDiffusion">AltDiffusion - multimodal art generative model (text-image, image-to-image)</a></li>
   <li><a href="https://huggingface.co/spaces/BAAI/SegGPT">SegGPT - performs arbitrary segmentation tasks in images or videos via in-context inference</a></li>
+  <li><a href="https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila">Aquila - open source language model with bilingual knowledge in Chinese and English</a></li>
+  
 </ul>
 
 ### Huggingface Demos
@@ -24,9 +26,10 @@ All things awesome about Beijing Academy of Artificial Intelligence - a non-prof
   <li><a href="https://huggingface.co/spaces/BAAI/dreambooth-altdiffusion">DreamBooth Huggingface demo</a></li>
 </ul>
 
-### BAAI's Official Repos
+### BAAI's Official Applications
 <ul>
- <li><a href="https://github.com/openai/gym"></a></li>
+ <li><a href="https://flagstudio.baai.ac.cn/">FlagStudio - multimodal image generation app</a></li>
+ <li><a href="https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila/Aquila-chat">Aquila Chat - multimodal chat bot app</a></li>
 </ul>
 
 ### How Tos
