@@ -8,3 +8,63 @@ All things awesome about Beijing Academy of Artificial Intelligence - a non-prof
   <li><a href="https://www.baai.ac.cn/english.html#About">BAAI Overview</a></li>
   <li><a href="https://www.baai.ac.cn/researchcenter.html">BAAI Research</a></li>
 </ul>
+
+### Quick Start
+<ul>
+  <li><a href="https://beta.openai.com/docs/quickstart"></a></li>
+</ul>
+
+### Models
+<ul>
+  <li><a href="https://github.com/FlagAI-Open">FlagAI - (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model</a></li>
+</ul>
+
+### Guides on building applications
+<ul>
+  <li><a href="https://beta.openai.com/docs/guides/completion"></a></li>
+</ul>
+
+### BAAI's Official Repos
+<ul>
+ <li><a href="https://github.com/openai/gym"></a></li>
+</ul>
+
+### How Tos
+  <li><a href="https://github.com/CodeSnippetHQ/tutorial-openai-chat-api"></a></li>
+  
+  
+  
+### Popular Applications
+<ul>
+  <li><a href="https://chat.openai.com/"></a></li>
+  
+</ul>
+
+### Popular Repos
+
+<ul>
+ <li><a href="https://github.com/humanloop/awesome-chatgpt"></a></li>
+ 
+ 
+</ul>
+
+### Latest News
+<ul>
+  <li><a href="https://openai.com/product/gpt-4"></a></li>
+</ul>
+
+### Apps Utilizing BAAI API with Frontend Frameworks/Libraries
+<ul>
+  <li><a href="https://github.com/openai/openai-quickstart-node"></a></li>
+</ul>
+
+### Devops Tools using BAAI APIs
+* [Kubernetes and Prometheus ChatGPT Bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot)
+
+### VSCode Extensions
+<ul>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=dogukanakkaya.chatgpt-code"></a></li>
+  
+</ul>
+
+### API References
