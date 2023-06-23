@@ -17,7 +17,7 @@ All things awesome about Beijing Academy of Artificial Intelligence - a non-prof
   <li><a href="https://huggingface.co/spaces/BAAI/AltDiffusion">AltDiffusion - multimodal art generative model (text-image, image-to-image)</a></li>
   <li><a href="https://huggingface.co/spaces/BAAI/SegGPT">SegGPT - performs arbitrary segmentation tasks in images or videos via in-context inference</a></li>
   <li><a href="https://github.com/FlagAI-Open/FlagAI/tree/master/examples/Aquila">Aquila - open source language model with bilingual knowledge in Chinese and English</a></li>
-  
+  <li><a href="https://github.com/FlagAI-Open/FlagAI/tree/master/examples/EVA_CLIP">EvalCLIP - open-sourced CLIP evaluation model </a></li>
 </ul>
 
 ### Huggingface Demos
