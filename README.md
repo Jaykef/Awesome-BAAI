@@ -29,6 +29,13 @@ All things awesome about Beijing Academy of Artificial Intelligence - a non-prof
   <li><a href="https://huggingface.co/spaces/BAAI/dreambooth-altdiffusion">DreamBooth Huggingface demo</a></li>
 </ul>
 
+
+### Quick Start
+<ul>
+  <li><a href="https://github.com/FlagAI-Open/FlagAI/tree/master/quickstart">FlagAI Quick Start</a></li>
+</ul>
+
+
 ### BAAI's Official Applications
 <ul>
  <li><a href="https://flagstudio.baai.ac.cn/">FlagStudio - multimodal image generation app (</a></li>
