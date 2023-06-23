@@ -61,12 +61,5 @@ All things awesome about Beijing Academy of Artificial Intelligence - a non-prof
 </ul>
 
 ### Devops Tools using BAAI APIs
-* [Kubernetes and Prometheus ChatGPT Bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot)
-
-### VSCode Extensions
-<ul>
-  <li><a href="https://marketplace.visualstudio.com/items?itemName=dogukanakkaya.chatgpt-code"></a></li>
-  
-</ul>
 
 ### API References
