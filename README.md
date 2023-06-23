@@ -7,12 +7,12 @@ All things awesome about Beijing Academy of Artificial Intelligence - a non-prof
 <ul>
   <li><a href="https://www.baai.ac.cn/english.html#About">BAAI Overview</a></li>
   <li><a href="https://www.baai.ac.cn/researchcenter.html">BAAI Research</a></li>
+  <li><a href="https://github.com/FlagAI-Open">FlagAI - (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model</a></li>
 </ul>
 
 ### Models
 <ul>
   <li><a href="https://www.baai.ac.cn/portal/article/index/cid/49/id/518.html">WuDao - Large pre-trained language model</a></li>
-  <li><a href="https://github.com/FlagAI-Open">FlagAI - (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model</a></li>
   https://github.com/FlagAI-Open/FlagAI/tree/master/examples/AltDiffusion
   <li><a href="https://huggingface.co/spaces/BAAI/AltDiffusion">AltDiffusion - Multimodal art generative model (text-image, image-to-image)</a></li>
   <li><a href="https://huggingface.co/spaces/BAAI/SegGPT">SegGPT - performs arbitrary segmentation tasks in images or videos via in-context inference</a></li>
